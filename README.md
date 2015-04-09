@@ -1,1 +1,1 @@
-This is a base converter that was made using C.
+This is a base converter program that was made using C.
